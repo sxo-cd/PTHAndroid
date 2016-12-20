@@ -1,0 +1,10 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight">
+        <!-- Set AppCompat’s color theming attrs -->
+        <item name="colorPrimary">#4DC0DA</item>
+        <item name="colorAccent">#00A3CA</item>
+        <item name="colorPrimaryDark">#00A3CA</item>
+    </style>
+</resources>
